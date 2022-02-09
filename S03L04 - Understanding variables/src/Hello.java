@@ -5,6 +5,7 @@ public class Hello {
 		int value3 = value1*value2*value2;
 		
 		System.out.println(value3);
+		System.out.println("hello how are you ");
 
 	}
 
